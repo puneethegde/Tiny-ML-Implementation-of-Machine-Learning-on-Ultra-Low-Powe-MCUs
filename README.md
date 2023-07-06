@@ -13,12 +13,21 @@ Load the given code in Arduino IDE, If you are using ESP32 CAM setup the basic s
 
 
 Results:
+
+
 Object detection:
+
+
+
+
 ![image](https://github.com/puneethegde/Tiny-ML-Implementation-of-Machine-Learning-on-Ultra-Low-Powe-MCUs/assets/88820961/442a8fc5-c4fc-4f81-ae7f-987d062d6997)
 ![image](https://github.com/puneethegde/Tiny-ML-Implementation-of-Machine-Learning-on-Ultra-Low-Powe-MCUs/assets/88820961/f593e3f5-fd9c-4b6b-9fa4-bca05a0718b4)
 ![image](https://github.com/puneethegde/Tiny-ML-Implementation-of-Machine-Learning-on-Ultra-Low-Powe-MCUs/assets/88820961/adc9e078-6777-41e8-8b84-e19fd568f798)
 
 Counting:
+
+
+
 ![image](https://github.com/puneethegde/Tiny-ML-Implementation-of-Machine-Learning-on-Ultra-Low-Powe-MCUs/assets/88820961/39433a92-998b-4533-9927-93653550a9f4)
 
 
